@@ -20,7 +20,7 @@ int g_rmDisabled = 0;
 
 // 0x410054
 int g_waitingForTargetDepth = 1;
-
+// modified resolution
 // 0x410058
 int g_targetWidth = 1920;
 
