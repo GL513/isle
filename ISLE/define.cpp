@@ -22,10 +22,10 @@ int g_rmDisabled = 0;
 int g_waitingForTargetDepth = 1;
 
 // 0x410058
-int g_targetWidth = 640;
+int g_targetWidth = 1920;
 
 // 0x41005c
-int g_targetHeight = 480;
+int g_targetHeight = 1080;
 
 // 0x410060
 unsigned int g_targetDepth = 16;
